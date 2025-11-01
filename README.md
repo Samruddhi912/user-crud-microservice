@@ -155,13 +155,19 @@ This separation makes the service maintainable, scalable, and production-friendl
 🌱 Future Enhancements
 
 ✅ Replace SQLite with PostgreSQL
+
 ✅ Add JWT authentication
+
 ✅ Add request validation using Joi
+
 ✅ Add unit tests (Jest)
+
 ✅ Dockerize the service
+
 ✅ Deploy on AWS / Render
 
 👩‍💻 Author
 
 Samruddhi Mahesh Kadam
+
 Full Stack Developer | Backend Engineer
