@@ -28,7 +28,7 @@ This project demonstrates modular microservice-style architecture, SQL-based sto
 ---
 
 ## 📂 Project Structure
-
+```bash
 user-crud-microservice/
 ├─ controllers/
 │ └─ userController.js
@@ -41,7 +41,7 @@ user-crud-microservice/
 ├─ db.js
 ├─ server.js
 └─ package.json
-
+```
 ---
 
 ## ⚙️ Installation & Setup
